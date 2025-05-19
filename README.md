@@ -1,2 +1,2 @@
 # beagle
-for creating docker image and maybe other stuff
+creating docker image for beagle which is a tool used for phasing 
